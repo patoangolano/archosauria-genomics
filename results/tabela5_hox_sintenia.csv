@@ -1,0 +1,13 @@
+species,cluster,cromossomo,n_genes,inicio,fim,span_kb
+Alligator_mississippiensis,A,5,11,155969625,156080524,110.9
+Alligator_mississippiensis,B,4,10,168115178,168296698,181.5
+Alligator_mississippiensis,C,15,9,8150124,8318205,168.1
+Alligator_mississippiensis,D,4,9,208982924,209071159,88.2
+Crocodylus_porosus,A,Unplaced Scaffold,10,60180207,60295576,115.4
+Crocodylus_porosus,B,Unplaced Scaffold,10,917219,1099960,182.7
+Crocodylus_porosus,C,Unplaced Scaffold,6,39653,116329,76.7
+Crocodylus_porosus,D,Unplaced Scaffold,7,39689431,39763831,74.4
+Gallus_gallus,A,2,11,32479290,32585457,106.2
+Gallus_gallus,B,27,10,3350868,3490154,139.3
+Gallus_gallus,C,34,6,831513,909510,78.0
+Gallus_gallus,D,7,9,15875779,15949931,74.2

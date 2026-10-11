@@ -1,0 +1,7 @@
+species,accession,assembly,level,release_date,size_Gb,gc_percent,contig_n50,scaffold_n50,n_scaffolds,genes_total,protein_coding,non_coding,pseudogene,ann_name
+Gallus gallus,GCF_016699485.2,bGalGal1.mat.broiler.GRCg7b,Chromosome,2021-01-19,1.053,42.0,18834961,90861225,213,25635,18023,7343,198,NCBI Gallus gallus Annotation Release 106
+Alligator mississippiensis,GCF_030867095.1,rAllMis1,Chromosome,2023-08-24,2.347,45.0,38556409,255078640,194,31016,20269,9724,846,GCF_030867095.1-RS_2023_09
+Crocodylus porosus,GCF_001723895.1,CroPor_comp1,Scaffold,2016-09-13,2.05,44.0,34073,84437661,69,19575,14717,4667,181,NCBI Crocodylus porosus Annotation Release 100
+Gavialis gangeticus,GCF_001723915.1,GavGan_comp1,Scaffold,2016-09-13,2.641,44.0,14799,96076944,80,18911,14315,4376,197,NCBI Gavialis gangeticus Annotation Release 100
+Chrysemys picta,GCF_011386835.1,ASM1138683v2,Chromosome,2023-09-08,2.372,45.0,13370154,133555881,9850,35699,25216,9241,1155,GCF_011386835.1-RS_2024_05
+Anolis carolinensis,GCF_035594765.1,rAnoCar3.1.pri,Chromosome,2024-01-12,1.851,40.5,26091274,288964324,211,27148,20447,6039,628,GCF_035594765.1-RS_2024_02

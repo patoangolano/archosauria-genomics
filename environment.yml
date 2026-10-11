@@ -1,0 +1,16 @@
+name: archosaur
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  - biopython
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - mafft
+  - iqtree
+  - blast
+  - trimal

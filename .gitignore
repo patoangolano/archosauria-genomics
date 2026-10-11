@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# BLAST databases are rebuilt by src/08_cne_scan.py
+data/blast/
+# genomic region dumps are re-fetched by src/07_fetch_hox.py (~2 MB of NCBI sequence)
+data/hox/*.fa
+# IQ-TREE run artefacts other than the trees themselves
+alignments/trees/*.log
+alignments/trees/*.ckp.gz
+alignments/trees/*.splits.nex
+alignments/trees/*.contree
+alignments/trees/*.bionj
+alignments/trees/*.mldist
+alignments/trees/*.model.gz
+alignments/trees/*.uniqueseq.phy
+# full-text articles are copyrighted and must not be redistributed
+articles/

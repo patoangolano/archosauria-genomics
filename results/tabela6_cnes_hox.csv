@@ -1,0 +1,9 @@
+cluster,target,region_kb,exon_bp,n_blocks,cons_bp,pct_region_conserved,n_CNE,CNE_bp,pct_region_CNE,CNE_median_bp,CNE_max_bp,mean_pid_all,mean_pid_noncoding
+HOXA,Alligator_mississippiensis,146.2,10369,96,50513,34.56,74,31324,21.43,329,2109,79.9,78.6
+HOXA,Crocodylus_porosus,146.2,10369,94,49237,33.69,72,31473,21.53,305,2030,80.1,78.6
+HOXB,Alligator_mississippiensis,179.3,8515,101,42920,23.94,82,28347,15.81,230,1556,80.8,80.3
+HOXB,Crocodylus_porosus,179.3,8515,100,42720,23.83,82,27838,15.53,225,1197,80.5,80.0
+HOXC,Alligator_mississippiensis,118.0,5195,54,20121,17.05,42,12643,10.71,234,1530,81.2,78.9
+HOXC,Crocodylus_porosus,118.0,5195,50,19313,16.37,38,11336,9.61,227,1530,80.5,78.9
+HOXD,Alligator_mississippiensis,114.2,7929,69,32812,28.74,53,20717,18.15,325,1079,81.1,81.5
+HOXD,Crocodylus_porosus,114.2,7929,70,31114,27.26,53,20717,18.15,325,1079,81.4,81.2

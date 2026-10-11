@@ -1,0 +1,6 @@
+species,n_assembled_chr,n_autosomes,largest_Mb,smallest_auto_Mb,n_micro_<20Mb,pct_genome_in_micro,GC_macro_>=40Mb,GC_micro_<20Mb,GC_delta
+Gallus gallus,41,39,196.4,0.13,28,16.6,40.38,47.86,7.47
+Alligator mississippiensis,16,16,486.6,35.67,0,0.0,44.67,,
+Chrysemys picta,25,25,360.1,17.12,2,1.6,43.88,51.0,7.12
+Taeniopygia guttata,41,39,152.5,4.25,26,20.3,39.94,49.47,9.54
+Anolis carolinensis,8,6,368.8,120.45,0,0.0,40.46,,

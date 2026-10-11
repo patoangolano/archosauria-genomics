@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Genômica comparativa e ontogenia em Archosauria: Gallus gallus frente a Alligator mississippiensis e Crocodylus porosus"
+message: "If you use this analysis, please cite it and the underlying primary data sources listed in docs/relatorio_archosauria.md."
+type: dataset
+abstract: >-
+  Reproducible comparative-genomics pipeline contrasting the chicken genome with
+  three crocodilian genomes. Quantifies the avian substitution-rate acceleration
+  from a 39-gene 1:1 ortholog supermatrix, the karyotype and GC compartmentation
+  of microchromosomes, and conserved non-coding elements across the four Hox
+  clusters.
+keywords:
+  - Archosauria
+  - comparative genomics
+  - molecular evolution
+  - microchromosomes
+  - conserved non-coding elements
+  - evo-devo
+license: MIT
